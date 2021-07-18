@@ -17,6 +17,7 @@ In the project, there are:
 ### Calculate Total Price
 
 ReactJS, Typescript, Material UI, Styled Components and React-Query is used in this project.
+FakeStoreApi is used to load the fake data.
 
 ## Live
 
